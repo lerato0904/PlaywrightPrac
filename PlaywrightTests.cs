@@ -2,8 +2,6 @@ using Microsoft.Playwright;
 using Microsoft.Playwright.NUnit;
 using System.Text.RegularExpressions;
 using Bogus;
-using Bogus.DataSets;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace PlaywrightPrac
 {
